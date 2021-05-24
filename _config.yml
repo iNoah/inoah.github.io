@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Naughty Assassins
+name: 话仙儿的博客
 
 # Short bio or description (displayed in the header)
-description: Staring into the Abyss
+description: 一个伪沉默寡言者
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/16964622?s=400&v=4
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://inoah.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
